@@ -288,6 +288,35 @@ Catatan ini **tidak boleh dihapus**. Entri lama tetap; koreksi = tambah baris ba
 | 2026-11-08 | 1.0 | Rujukan QC: putaran 1 98,1% (51/52), putaran 2 6/6, 11 cacat diperbaiki. | `QC/QC_REPORT.md`, `QC/SCORE_REPORT.txt` |
 | 2026-11-08 | 1.1 | **Koreksi heading.** Versi 1.0 memakai heading bernomor (`## 4. Backlog`, `## 2. Format Catatan`) sehingga perintah cek `grep -q '^## Backlog'` **GAGAL**. Semua heading dinormalkan ke bentuk tanpa nomor. | `QC/verify_agent_md.py` → 24/24 lulus; perintah cek minimal kini exit 0 |
 | 2026-11-08 | 1.1 | `BL-000` diberi keterangan eksplisit sebagai contoh format agar tidak dihitung sebagai pekerjaan; ringkasan backlog menyatakan BL-000 dikecualikan. | `QC/check_fences.py` → fence seimbang, heading asli 22 |
+| 2026-11-08 | 1.2 | **Repo di-publish ke GitHub PRIVATE** `irsaddirang/IKG`. Commit `89efb08`. `.gitignore` mengecualikan `data/raw/` (dapat diregenerasi, ~110 MB) dan `build-daily-monitoring/` (proyek lain). `.gitattributes` menormalkan line ending ke LF. `README.md` root ditambahkan sebagai halaman depan repo. | API: `private=true`, default `main`, HEAD `89efb08`; tree remote 4.007 file / 205,2 MB; clone bersih 4.007 file OK; akses anonim HTTP 404 |
+
+---
+
+## Publish / Update ke GitHub
+
+Repo: **`https://github.com/irsaddirang/IKG`** (private, branch `main`).
+
+Autentikasi memakai Git Credential Manager yang sudah tersimpan untuk
+`github.com` (user `irsaddirang`, scope `repo` + `workflow`). Tidak ada token di
+dalam repo.
+
+```powershell
+cd C:\Users\muham\OneDrive\ドキュメント\Github\IKG
+git status                       # tinjau dulu apa yang berubah
+git add -A
+git commit -m "docs: <ringkas apa yang berubah>"
+git push
+```
+
+**Sebelum commit, pastikan:**
+
+1. Tidak ada berkas rahasia (`.env`, token, kunci) — sudah dicegah `.gitignore`.
+2. `Manroland_KnowledgeBase/data/raw/` **tidak** ikut (dapat diregenerasi).
+3. `build-daily-monitoring/` **tidak** ikut (proyek terpisah).
+4. Angka di dokumentasi masih sesuai data — jalankan `QC/consistency.py`.
+
+Setiap perubahan pada `agent.md` **wajib** menambah baris di Log Perubahan di atas;
+jangan menimpa baris lama.
 
 ---
 
