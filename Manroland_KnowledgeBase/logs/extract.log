@@ -1,0 +1,2131 @@
+FAIL +FB sheet 1: TypeError("string indices must be integers, not 'str'")
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 555, in main
+    rec = extract_page(d, d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 417, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 354, in build_annotations
+    texts = [l["text"] for l in grp]
+             ~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+
+FAIL +FB sheet 2: TypeError("string indices must be integers, not 'str'")
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 555, in main
+    rec = extract_page(d, d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 417, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 354, in build_annotations
+    texts = [l["text"] for l in grp]
+             ~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+
+FAIL +FB sheet 3: TypeError("string indices must be integers, not 'str'")
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 555, in main
+    rec = extract_page(d, d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 417, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 354, in build_annotations
+    texts = [l["text"] for l in grp]
+             ~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+
+FAIL +FB sheet 4: TypeError("string indices must be integers, not 'str'")
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 555, in main
+    rec = extract_page(d, d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 417, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 354, in build_annotations
+    texts = [l["text"] for l in grp]
+             ~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+
+FAIL +FB sheet 5: TypeError("string indices must be integers, not 'str'")
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 555, in main
+    rec = extract_page(d, d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 417, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 354, in build_annotations
+    texts = [l["text"] for l in grp]
+             ~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+
+FAIL +FB sheet 6: TypeError("string indices must be integers, not 'str'")
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 555, in main
+    rec = extract_page(d, d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 417, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 354, in build_annotations
+    texts = [l["text"] for l in grp]
+             ~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+
+FAIL +FB sheet 7: TypeError("string indices must be integers, not 'str'")
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 555, in main
+    rec = extract_page(d, d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 417, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 354, in build_annotations
+    texts = [l["text"] for l in grp]
+             ~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+
+FAIL +FB sheet 8: TypeError("string indices must be integers, not 'str'")
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 555, in main
+    rec = extract_page(d, d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 417, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 354, in build_annotations
+    texts = [l["text"] for l in grp]
+             ~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+
+FAIL +FB sheet 9: TypeError("string indices must be integers, not 'str'")
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 555, in main
+    rec = extract_page(d, d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 417, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 354, in build_annotations
+    texts = [l["text"] for l in grp]
+             ~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+
+FAIL +FB sheet 10: TypeError("string indices must be integers, not 'str'")
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 555, in main
+    rec = extract_page(d, d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 417, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 354, in build_annotations
+    texts = [l["text"] for l in grp]
+             ~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+
+FAIL +FB sheet 11: TypeError("string indices must be integers, not 'str'")
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 555, in main
+    rec = extract_page(d, d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 417, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 354, in build_annotations
+    texts = [l["text"] for l in grp]
+             ~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+
+FAIL +FB sheet 12: TypeError("string indices must be integers, not 'str'")
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 555, in main
+    rec = extract_page(d, d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 417, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 354, in build_annotations
+    texts = [l["text"] for l in grp]
+             ~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+
+FAIL +FB sheet 13: TypeError("string indices must be integers, not 'str'")
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 555, in main
+    rec = extract_page(d, d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 417, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 354, in build_annotations
+    texts = [l["text"] for l in grp]
+             ~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+
+FAIL +FB sheet 14: TypeError("string indices must be integers, not 'str'")
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 555, in main
+    rec = extract_page(d, d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 417, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 354, in build_annotations
+    texts = [l["text"] for l in grp]
+             ~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+
+FAIL +FB sheet 15: TypeError("string indices must be integers, not 'str'")
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 555, in main
+    rec = extract_page(d, d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 417, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 354, in build_annotations
+    texts = [l["text"] for l in grp]
+             ~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+
+FAIL +FB sheet 16: TypeError("string indices must be integers, not 'str'")
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 555, in main
+    rec = extract_page(d, d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 417, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 354, in build_annotations
+    texts = [l["text"] for l in grp]
+             ~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+
+FAIL +FB sheet 17: TypeError("string indices must be integers, not 'str'")
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 555, in main
+    rec = extract_page(d, d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 417, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 354, in build_annotations
+    texts = [l["text"] for l in grp]
+             ~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+
+FAIL +FB sheet 18: TypeError("string indices must be integers, not 'str'")
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 555, in main
+    rec = extract_page(d, d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 417, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 354, in build_annotations
+    texts = [l["text"] for l in grp]
+             ~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+
+FAIL +FB sheet 19: TypeError("string indices must be integers, not 'str'")
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 555, in main
+    rec = extract_page(d, d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 417, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 354, in build_annotations
+    texts = [l["text"] for l in grp]
+             ~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+
+FAIL +FB sheet 20: TypeError("string indices must be integers, not 'str'")
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 555, in main
+    rec = extract_page(d, d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 417, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 354, in build_annotations
+    texts = [l["text"] for l in grp]
+             ~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+
+FAIL +FB sheet 21: TypeError("string indices must be integers, not 'str'")
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 555, in main
+    rec = extract_page(d, d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 417, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 354, in build_annotations
+    texts = [l["text"] for l in grp]
+             ~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+
+FAIL +FB sheet 22: TypeError("string indices must be integers, not 'str'")
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 555, in main
+    rec = extract_page(d, d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 417, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 354, in build_annotations
+    texts = [l["text"] for l in grp]
+             ~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+
++FB        pages= 22 extracted=  0 skipped=  0  0.2s
+
+TOTAL {}
+failures: 22
+elapsed 0.2s
+FAIL +FB sheet 1: TypeError("string indices must be integers, not 'str'")
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 555, in main
+    rec = extract_page(d, d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 417, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 354, in build_annotations
+    texts = [l["text"] for l in grp]
+             ~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+
+FAIL +FB sheet 2: TypeError("string indices must be integers, not 'str'")
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 555, in main
+    rec = extract_page(d, d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 417, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 354, in build_annotations
+    texts = [l["text"] for l in grp]
+             ~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+
+FAIL +FB sheet 3: TypeError("string indices must be integers, not 'str'")
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 555, in main
+    rec = extract_page(d, d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 417, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 354, in build_annotations
+    texts = [l["text"] for l in grp]
+             ~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+
+FAIL +FB sheet 4: TypeError("string indices must be integers, not 'str'")
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 555, in main
+    rec = extract_page(d, d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 417, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 354, in build_annotations
+    texts = [l["text"] for l in grp]
+             ~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+
+FAIL +FB sheet 5: TypeError("string indices must be integers, not 'str'")
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 555, in main
+    rec = extract_page(d, d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 417, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 354, in build_annotations
+    texts = [l["text"] for l in grp]
+             ~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+
+FAIL +FB sheet 6: TypeError("string indices must be integers, not 'str'")
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 555, in main
+    rec = extract_page(d, d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 417, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 354, in build_annotations
+    texts = [l["text"] for l in grp]
+             ~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+
+FAIL +FB sheet 7: TypeError("string indices must be integers, not 'str'")
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 555, in main
+    rec = extract_page(d, d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 417, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 354, in build_annotations
+    texts = [l["text"] for l in grp]
+             ~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+
+FAIL +FB sheet 8: TypeError("string indices must be integers, not 'str'")
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 555, in main
+    rec = extract_page(d, d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 417, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 354, in build_annotations
+    texts = [l["text"] for l in grp]
+             ~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+
+FAIL +FB sheet 9: TypeError("string indices must be integers, not 'str'")
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 555, in main
+    rec = extract_page(d, d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 417, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 354, in build_annotations
+    texts = [l["text"] for l in grp]
+             ~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+
+FAIL +FB sheet 10: TypeError("string indices must be integers, not 'str'")
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 555, in main
+    rec = extract_page(d, d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 417, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 354, in build_annotations
+    texts = [l["text"] for l in grp]
+             ~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+
+FAIL +FB sheet 11: TypeError("string indices must be integers, not 'str'")
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 555, in main
+    rec = extract_page(d, d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 417, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 354, in build_annotations
+    texts = [l["text"] for l in grp]
+             ~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+
+FAIL +FB sheet 12: TypeError("string indices must be integers, not 'str'")
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 555, in main
+    rec = extract_page(d, d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 417, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 354, in build_annotations
+    texts = [l["text"] for l in grp]
+             ~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+
+FAIL +FB sheet 13: TypeError("string indices must be integers, not 'str'")
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 555, in main
+    rec = extract_page(d, d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 417, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 354, in build_annotations
+    texts = [l["text"] for l in grp]
+             ~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+
+FAIL +FB sheet 14: TypeError("string indices must be integers, not 'str'")
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 555, in main
+    rec = extract_page(d, d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 417, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 354, in build_annotations
+    texts = [l["text"] for l in grp]
+             ~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+
+FAIL +FB sheet 15: TypeError("string indices must be integers, not 'str'")
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 555, in main
+    rec = extract_page(d, d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 417, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 354, in build_annotations
+    texts = [l["text"] for l in grp]
+             ~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+
+FAIL +FB sheet 16: TypeError("string indices must be integers, not 'str'")
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 555, in main
+    rec = extract_page(d, d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 417, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 354, in build_annotations
+    texts = [l["text"] for l in grp]
+             ~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+
+FAIL +FB sheet 17: TypeError("string indices must be integers, not 'str'")
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 555, in main
+    rec = extract_page(d, d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 417, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 354, in build_annotations
+    texts = [l["text"] for l in grp]
+             ~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+
+FAIL +FB sheet 18: TypeError("string indices must be integers, not 'str'")
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 555, in main
+    rec = extract_page(d, d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 417, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 354, in build_annotations
+    texts = [l["text"] for l in grp]
+             ~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+
+FAIL +FB sheet 19: TypeError("string indices must be integers, not 'str'")
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 555, in main
+    rec = extract_page(d, d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 417, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 354, in build_annotations
+    texts = [l["text"] for l in grp]
+             ~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+
+FAIL +FB sheet 20: TypeError("string indices must be integers, not 'str'")
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 555, in main
+    rec = extract_page(d, d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 417, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 354, in build_annotations
+    texts = [l["text"] for l in grp]
+             ~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+
+FAIL +FB sheet 21: TypeError("string indices must be integers, not 'str'")
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 555, in main
+    rec = extract_page(d, d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 417, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 354, in build_annotations
+    texts = [l["text"] for l in grp]
+             ~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+
+FAIL +FB sheet 22: TypeError("string indices must be integers, not 'str'")
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 555, in main
+    rec = extract_page(d, d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 417, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 354, in build_annotations
+    texts = [l["text"] for l in grp]
+             ~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+
++FB        pages= 22 extracted=  0 skipped=  0  0.2s
+
+TOTAL {}
+failures: 22
+elapsed 0.2s
+FAIL +FB sheet 4: KeyError('text')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 556, in main
+    rec = extract_page(d, d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 455, in extract_page
+    targets = [l["text"] for l in a["lines"]
+               ~^^^^^^^^
+KeyError: 'text'
+
+FAIL +FB sheet 5: KeyError('text')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 556, in main
+    rec = extract_page(d, d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 455, in extract_page
+    targets = [l["text"] for l in a["lines"]
+               ~^^^^^^^^
+KeyError: 'text'
+
+FAIL +FB sheet 6: KeyError('text')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 556, in main
+    rec = extract_page(d, d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 455, in extract_page
+    targets = [l["text"] for l in a["lines"]
+               ~^^^^^^^^
+KeyError: 'text'
+
+FAIL +FB sheet 9: KeyError('text')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 556, in main
+    rec = extract_page(d, d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 455, in extract_page
+    targets = [l["text"] for l in a["lines"]
+               ~^^^^^^^^
+KeyError: 'text'
+
+FAIL +FB sheet 13: KeyError('text')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 556, in main
+    rec = extract_page(d, d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 455, in extract_page
+    targets = [l["text"] for l in a["lines"]
+               ~^^^^^^^^
+KeyError: 'text'
+
+FAIL +FB sheet 14: KeyError('text')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 556, in main
+    rec = extract_page(d, d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 455, in extract_page
+    targets = [l["text"] for l in a["lines"]
+               ~^^^^^^^^
+KeyError: 'text'
+
++FB        pages= 22 extracted= 16 skipped=  0  0.3s
+
+TOTAL {'lines': 1733, 'annotations': 1083, 'devices': 109, 'nets': 403, 'xrefs_out': 154, 'notes': 313, 'placeholders': 315}
+failures: 6
+elapsed 0.3s
++FB        pages= 22 extracted= 22 skipped=  0  0.3s
+
+TOTAL {'lines': 2219, 'annotations': 1467, 'devices': 230, 'nets': 471, 'xrefs_out': 210, 'notes': 338, 'placeholders': 324}
+failures: 0
+elapsed 0.3s
+FAIL +FB:4 KeyError('p')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["kind"] == "xref"]
+                   ~^^^^^
+KeyError: 'p'
+
+FAIL +FB:5 KeyError('p')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["kind"] == "xref"]
+                   ~^^^^^
+KeyError: 'p'
+
+FAIL +FB:6 KeyError('p')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["kind"] == "xref"]
+                   ~^^^^^
+KeyError: 'p'
+
+FAIL +FB:9 KeyError('p')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["kind"] == "xref"]
+                   ~^^^^^
+KeyError: 'p'
+
+FAIL +FB:10 KeyError('p')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["kind"] == "xref"]
+                   ~^^^^^
+KeyError: 'p'
+
+FAIL +FB:11 KeyError('p')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["kind"] == "xref"]
+                   ~^^^^^
+KeyError: 'p'
+
+FAIL +FB:12 KeyError('p')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["kind"] == "xref"]
+                   ~^^^^^
+KeyError: 'p'
+
+FAIL +FB:13 KeyError('p')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["kind"] == "xref"]
+                   ~^^^^^
+KeyError: 'p'
+
+FAIL +FB:14 KeyError('p')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["kind"] == "xref"]
+                   ~^^^^^
+KeyError: 'p'
+
+FAIL +FB:15 KeyError('p')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["kind"] == "xref"]
+                   ~^^^^^
+KeyError: 'p'
+
+FAIL +FB:16 KeyError('p')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["kind"] == "xref"]
+                   ~^^^^^
+KeyError: 'p'
+
+FAIL +FB:17 KeyError('p')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["kind"] == "xref"]
+                   ~^^^^^
+KeyError: 'p'
+
+FAIL +FB:19 KeyError('p')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["kind"] == "xref"]
+                   ~^^^^^
+KeyError: 'p'
+
+FAIL +FB:20 KeyError('p')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["kind"] == "xref"]
+                   ~^^^^^
+KeyError: 'p'
+
+FAIL +FB:21 KeyError('p')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["kind"] == "xref"]
+                   ~^^^^^
+KeyError: 'p'
+
+FAIL +FB:22 KeyError('p')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["kind"] == "xref"]
+                   ~^^^^^
+KeyError: 'p'
+
++FB        pages= 22 extracted=  6 skipped=  0 0.2s
+
+TOTAL {'annotations': 296, 'colours': 0, 'devices': 0, 'devrefs': 0, 'lines': 342, 'nets': 0, 'placeholders': 166, 'texts': 125, 'xrefs_out': 0, 'xsections': 0}
+failures=16 elapsed=0.2s
+FAIL +Ax:5 KeyError('p')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["kind"] == "xref"]
+                   ~^^^^^
+KeyError: 'p'
+
+FAIL +Ax:8 KeyError('p')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["kind"] == "xref"]
+                   ~^^^^^
+KeyError: 'p'
+
+FAIL +Ax:9 KeyError('p')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["kind"] == "xref"]
+                   ~^^^^^
+KeyError: 'p'
+
+FAIL +Ax:10 KeyError('p')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["kind"] == "xref"]
+                   ~^^^^^
+KeyError: 'p'
+
+FAIL +Ax:11 KeyError('p')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["kind"] == "xref"]
+                   ~^^^^^
+KeyError: 'p'
+
+FAIL +Ax:12 KeyError('p')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["kind"] == "xref"]
+                   ~^^^^^
+KeyError: 'p'
+
+FAIL +Ax:13 KeyError('p')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["kind"] == "xref"]
+                   ~^^^^^
+KeyError: 'p'
+
+FAIL +Ax:14 KeyError('p')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["kind"] == "xref"]
+                   ~^^^^^
+KeyError: 'p'
+
+FAIL +Ax:15 KeyError('p')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["kind"] == "xref"]
+                   ~^^^^^
+KeyError: 'p'
+
+FAIL +Ax:16 KeyError('p')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["kind"] == "xref"]
+                   ~^^^^^
+KeyError: 'p'
+
+FAIL +Ax:17 KeyError('p')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["kind"] == "xref"]
+                   ~^^^^^
+KeyError: 'p'
+
+FAIL +Ax:18 KeyError('p')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["kind"] == "xref"]
+                   ~^^^^^
+KeyError: 'p'
+
+FAIL +Ax:19 KeyError('p')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["kind"] == "xref"]
+                   ~^^^^^
+KeyError: 'p'
+
+FAIL +Ax:20 KeyError('p')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["kind"] == "xref"]
+                   ~^^^^^
+KeyError: 'p'
+
+FAIL +Ax:21 KeyError('p')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["kind"] == "xref"]
+                   ~^^^^^
+KeyError: 'p'
+
+FAIL +Ax:22 KeyError('p')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["kind"] == "xref"]
+                   ~^^^^^
+KeyError: 'p'
+
+FAIL +Ax:23 KeyError('p')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["kind"] == "xref"]
+                   ~^^^^^
+KeyError: 'p'
+
+FAIL +Ax:24 KeyError('p')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["kind"] == "xref"]
+                   ~^^^^^
+KeyError: 'p'
+
+FAIL +Ax:25 KeyError('p')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["kind"] == "xref"]
+                   ~^^^^^
+KeyError: 'p'
+
+FAIL +Ax:26 KeyError('p')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["kind"] == "xref"]
+                   ~^^^^^
+KeyError: 'p'
+
+FAIL +Ax:27 KeyError('p')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["kind"] == "xref"]
+                   ~^^^^^
+KeyError: 'p'
+
+FAIL +Ax:28 KeyError('p')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["kind"] == "xref"]
+                   ~^^^^^
+KeyError: 'p'
+
+FAIL +Ax:29 KeyError('p')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["kind"] == "xref"]
+                   ~^^^^^
+KeyError: 'p'
+
+FAIL +Ax:30 KeyError('p')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["kind"] == "xref"]
+                   ~^^^^^
+KeyError: 'p'
+
++Ax        pages=403 extracted=  6 skipped=  0 0.3s
+
+TOTAL {'annotations': 473, 'colours': 1, 'devices': 0, 'devrefs': 0, 'lines': 586, 'nets': 14, 'placeholders': 2, 'texts': 292, 'xrefs_out': 0, 'xsections': 0}
+failures=24 elapsed=0.3s
+FAIL +FB:1 KeyError('k')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["k"] == "xref" and l["p"]]
+                                          ~^^^^^
+KeyError: 'k'
+
+FAIL +FB:2 KeyError('k')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["k"] == "xref" and l["p"]]
+                                          ~^^^^^
+KeyError: 'k'
+
+FAIL +FB:3 KeyError('k')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["k"] == "xref" and l["p"]]
+                                          ~^^^^^
+KeyError: 'k'
+
+FAIL +FB:4 KeyError('k')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["k"] == "xref" and l["p"]]
+                                          ~^^^^^
+KeyError: 'k'
+
+FAIL +FB:5 KeyError('k')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["k"] == "xref" and l["p"]]
+                                          ~^^^^^
+KeyError: 'k'
+
+FAIL +FB:6 KeyError('k')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["k"] == "xref" and l["p"]]
+                                          ~^^^^^
+KeyError: 'k'
+
+FAIL +FB:7 KeyError('k')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["k"] == "xref" and l["p"]]
+                                          ~^^^^^
+KeyError: 'k'
+
+FAIL +FB:8 KeyError('k')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["k"] == "xref" and l["p"]]
+                                          ~^^^^^
+KeyError: 'k'
+
+FAIL +FB:9 KeyError('k')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["k"] == "xref" and l["p"]]
+                                          ~^^^^^
+KeyError: 'k'
+
+FAIL +FB:10 KeyError('k')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["k"] == "xref" and l["p"]]
+                                          ~^^^^^
+KeyError: 'k'
+
+FAIL +FB:11 KeyError('k')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["k"] == "xref" and l["p"]]
+                                          ~^^^^^
+KeyError: 'k'
+
+FAIL +FB:12 KeyError('k')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["k"] == "xref" and l["p"]]
+                                          ~^^^^^
+KeyError: 'k'
+
+FAIL +FB:13 KeyError('k')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["k"] == "xref" and l["p"]]
+                                          ~^^^^^
+KeyError: 'k'
+
+FAIL +FB:14 KeyError('k')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["k"] == "xref" and l["p"]]
+                                          ~^^^^^
+KeyError: 'k'
+
+FAIL +FB:15 KeyError('k')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["k"] == "xref" and l["p"]]
+                                          ~^^^^^
+KeyError: 'k'
+
+FAIL +FB:16 KeyError('k')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["k"] == "xref" and l["p"]]
+                                          ~^^^^^
+KeyError: 'k'
+
+FAIL +FB:17 KeyError('k')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["k"] == "xref" and l["p"]]
+                                          ~^^^^^
+KeyError: 'k'
+
+FAIL +FB:18 KeyError('k')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["k"] == "xref" and l["p"]]
+                                          ~^^^^^
+KeyError: 'k'
+
+FAIL +FB:19 KeyError('k')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["k"] == "xref" and l["p"]]
+                                          ~^^^^^
+KeyError: 'k'
+
+FAIL +FB:20 KeyError('k')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["k"] == "xref" and l["p"]]
+                                          ~^^^^^
+KeyError: 'k'
+
+FAIL +FB:21 KeyError('k')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["k"] == "xref" and l["p"]]
+                                          ~^^^^^
+KeyError: 'k'
+
+FAIL +FB:22 KeyError('k')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["k"] == "xref" and l["p"]]
+                                          ~^^^^^
+KeyError: 'k'
+
++FB        pages= 22 extracted=  0 skipped=  0 0.1s
+
+TOTAL {}
+failures=22 elapsed=0.1s
+FAIL +Ax:1 KeyError('k')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["k"] == "xref" and l["p"]]
+                                          ~^^^^^
+KeyError: 'k'
+
+FAIL +Ax:2 KeyError('k')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["k"] == "xref" and l["p"]]
+                                          ~^^^^^
+KeyError: 'k'
+
+FAIL +Ax:3 KeyError('k')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["k"] == "xref" and l["p"]]
+                                          ~^^^^^
+KeyError: 'k'
+
+FAIL +Ax:4 KeyError('k')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["k"] == "xref" and l["p"]]
+                                          ~^^^^^
+KeyError: 'k'
+
+FAIL +Ax:5 KeyError('k')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["k"] == "xref" and l["p"]]
+                                          ~^^^^^
+KeyError: 'k'
+
+FAIL +Ax:6 KeyError('k')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["k"] == "xref" and l["p"]]
+                                          ~^^^^^
+KeyError: 'k'
+
+FAIL +Ax:7 KeyError('k')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["k"] == "xref" and l["p"]]
+                                          ~^^^^^
+KeyError: 'k'
+
+FAIL +Ax:8 KeyError('k')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["k"] == "xref" and l["p"]]
+                                          ~^^^^^
+KeyError: 'k'
+
+FAIL +Ax:9 KeyError('k')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["k"] == "xref" and l["p"]]
+                                          ~^^^^^
+KeyError: 'k'
+
+FAIL +Ax:10 KeyError('k')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["k"] == "xref" and l["p"]]
+                                          ~^^^^^
+KeyError: 'k'
+
+FAIL +Ax:11 KeyError('k')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["k"] == "xref" and l["p"]]
+                                          ~^^^^^
+KeyError: 'k'
+
+FAIL +Ax:12 KeyError('k')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["k"] == "xref" and l["p"]]
+                                          ~^^^^^
+KeyError: 'k'
+
+FAIL +Ax:13 KeyError('k')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["k"] == "xref" and l["p"]]
+                                          ~^^^^^
+KeyError: 'k'
+
+FAIL +Ax:14 KeyError('k')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["k"] == "xref" and l["p"]]
+                                          ~^^^^^
+KeyError: 'k'
+
+FAIL +Ax:15 KeyError('k')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["k"] == "xref" and l["p"]]
+                                          ~^^^^^
+KeyError: 'k'
+
+FAIL +Ax:16 KeyError('k')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["k"] == "xref" and l["p"]]
+                                          ~^^^^^
+KeyError: 'k'
+
+FAIL +Ax:17 KeyError('k')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["k"] == "xref" and l["p"]]
+                                          ~^^^^^
+KeyError: 'k'
+
+FAIL +Ax:18 KeyError('k')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["k"] == "xref" and l["p"]]
+                                          ~^^^^^
+KeyError: 'k'
+
+FAIL +Ax:19 KeyError('k')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["k"] == "xref" and l["p"]]
+                                          ~^^^^^
+KeyError: 'k'
+
+FAIL +Ax:20 KeyError('k')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["k"] == "xref" and l["p"]]
+                                          ~^^^^^
+KeyError: 'k'
+
+FAIL +Ax:21 KeyError('k')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["k"] == "xref" and l["p"]]
+                                          ~^^^^^
+KeyError: 'k'
+
+FAIL +Ax:22 KeyError('k')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["k"] == "xref" and l["p"]]
+                                          ~^^^^^
+KeyError: 'k'
+
+FAIL +Ax:23 KeyError('k')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["k"] == "xref" and l["p"]]
+                                          ~^^^^^
+KeyError: 'k'
+
+FAIL +Ax:24 KeyError('k')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["k"] == "xref" and l["p"]]
+                                          ~^^^^^
+KeyError: 'k'
+
+FAIL +Ax:25 KeyError('k')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["k"] == "xref" and l["p"]]
+                                          ~^^^^^
+KeyError: 'k'
+
+FAIL +Ax:26 KeyError('k')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["k"] == "xref" and l["p"]]
+                                          ~^^^^^
+KeyError: 'k'
+
+FAIL +Ax:27 KeyError('k')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["k"] == "xref" and l["p"]]
+                                          ~^^^^^
+KeyError: 'k'
+
+FAIL +Ax:28 KeyError('k')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["k"] == "xref" and l["p"]]
+                                          ~^^^^^
+KeyError: 'k'
+
+FAIL +Ax:29 KeyError('k')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["k"] == "xref" and l["p"]]
+                                          ~^^^^^
+KeyError: 'k'
+
+FAIL +Ax:30 KeyError('k')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["k"] == "xref" and l["p"]]
+                                          ~^^^^^
+KeyError: 'k'
+
+FAIL +Ax:31 KeyError('k')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["k"] == "xref" and l["p"]]
+                                          ~^^^^^
+KeyError: 'k'
+
+FAIL +Ax:32 KeyError('k')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["k"] == "xref" and l["p"]]
+                                          ~^^^^^
+KeyError: 'k'
+
+FAIL +Ax:33 KeyError('k')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["k"] == "xref" and l["p"]]
+                                          ~^^^^^
+KeyError: 'k'
+
+FAIL +Ax:34 KeyError('k')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["k"] == "xref" and l["p"]]
+                                          ~^^^^^
+KeyError: 'k'
+
+FAIL +Ax:35 KeyError('k')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["k"] == "xref" and l["p"]]
+                                          ~^^^^^
+KeyError: 'k'
+
+FAIL +Ax:36 KeyError('k')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["k"] == "xref" and l["p"]]
+                                          ~^^^^^
+KeyError: 'k'
+
+FAIL +Ax:37 KeyError('k')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["k"] == "xref" and l["p"]]
+                                          ~^^^^^
+KeyError: 'k'
+
+FAIL +Ax:38 KeyError('k')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["k"] == "xref" and l["p"]]
+                                          ~^^^^^
+KeyError: 'k'
+
+FAIL +Ax:39 KeyError('k')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["k"] == "xref" and l["p"]]
+                                          ~^^^^^
+KeyError: 'k'
+
+FAIL +Ax:40 KeyError('k')
+Traceback (most recent call last):
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 477, in main
+    rec = extract_page(d[i], dockey, sheet)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 338, in extract_page
+    annos = build_annotations(lines)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\pipeline\extract.py", line 296, in build_annotations
+    rec["xref"] = [l["p"] for l in grp if l["k"] == "xref" and l["p"]]
+                                          ~^^^^^
+KeyError: 'k'
+
++Ax        pages=403 extracted=  0 skipped=  0 0.4s
+
+TOTAL {}
+failures=40 elapsed=0.4s
++FB        pages= 22 extracted= 22 skipped=  0 0.3s
+
+TOTAL {'annotations': 1457, 'colours': 47, 'devices': 240, 'devrefs': 101, 'lines': 2219, 'nets': 64, 'placeholders': 324, 'texts': 446, 'xrefs_out': 210, 'xsections': 24}
+failures=0 elapsed=0.3s
++FB        pages= 22 extracted= 22 skipped=  0 0.4s
+
+TOTAL {'annotations': 1247, 'colours': 19, 'devref': 102, 'devtag': 237, 'lines': 2219, 'net': 67, 'numeric': 676, 'placeholders': 324, 'text': 474, 'xrefs_out': 210, 'xsections': 24}
+failures=0 elapsed=0.4s
++FB        pages= 22 extracted= 22 skipped=  0 0.3s
+
+TOTAL {'annotations': 1247, 'colours': 19, 'devref': 102, 'devtag': 237, 'lines': 2219, 'net': 67, 'numeric': 676, 'placeholders': 324, 'text': 474, 'xrefs_out': 210, 'xsections': 24}
+failures=0 elapsed=0.3s
++FB        pages= 22 extracted=  0 skipped= 22 0.0s
++Ax        pages=403 extracted=397 skipped=  6 7.1s
++BA_Cx_DA  pages=247 extracted=247 skipped=  0 4.1s
++EA        pages=407 extracted=407 skipped=  0 7.4s
++FA        pages= 58 extracted= 58 skipped=  0 0.9s
++Jx        pages=214 extracted=214 skipped=  0 3.6s
+
+TOTAL {'annotations': 96070, 'colours': 52, 'devref': 15257, 'devtag': 10289, 'lines': 178111, 'net': 3485, 'numeric': 78877, 'placeholders': 76, 'text': 33552, 'xrefs_out': 34680, 'xsections': 68}
+failures=0 elapsed=23.3s
++Ax        pages=403 extracted=403 skipped=  0 7.1s
+
+TOTAL {'annotations': 31166, 'colours': 0, 'devref': 5136, 'devtag': 3120, 'lines': 57213, 'net': 1021, 'numeric': 26474, 'placeholders': 3, 'text': 10194, 'xrefs_out': 10948, 'xsections': 0}
+failures=0 elapsed=7.1s
++FB        pages= 22 extracted= 22 skipped=  0 0.3s
++Ax        pages=403 extracted=403 skipped=  0 6.1s
++BA_Cx_DA  pages=247 extracted=247 skipped=  0 3.3s
++EA        pages=407 extracted=407 skipped=  0 5.9s
++FA        pages= 58 extracted= 58 skipped=  0 0.8s
++Jx        pages=214 extracted=214 skipped=  0 3.0s
+
+TOTAL {'annotations': 97626, 'colours': 71, 'devref': 15359, 'devtag': 10526, 'lines': 180916, 'net': 3566, 'numeric': 79828, 'placeholders': 402, 'text': 34319, 'xrefs_out': 34890, 'xsections': 92}
+failures=0 elapsed=19.4s
++FB        pages= 22 extracted=  0 skipped= 22 0.0s
+
+TOTAL {}
+failures=0 elapsed=0.0s
++FB        pages= 22 extracted=  0 skipped= 22 0.0s
++Ax        pages=403 extracted=  0 skipped=403 0.0s
++BA_Cx_DA  pages=247 extracted=  0 skipped=247 0.0s
++EA        pages=407 extracted=  0 skipped=407 0.0s
++FA        pages= 58 extracted=  0 skipped= 58 0.0s
++Jx        pages=214 extracted=  0 skipped=214 0.0s
+
+TOTAL {}
+failures=0 elapsed=0.2s
++FB        pages= 22 extracted= 22 skipped=  0 0.3s
++Ax        pages=403 extracted=403 skipped=  0 6.5s
++BA_Cx_DA  pages=247 extracted=247 skipped=  0 3.5s
++EA        pages=407 extracted=407 skipped=  0 6.6s
++FA        pages= 58 extracted= 58 skipped=  0 0.8s
++Jx        pages=214 extracted=214 skipped=  0 3.3s
+
+TOTAL {'annotations': 97626, 'colours': 71, 'devref': 15359, 'devtag': 10526, 'lines': 180916, 'net': 3566, 'numeric': 70054, 'placeholders': 402, 'text': 45240, 'xrefs_out': 34890, 'xsections': 92}
+failures=0 elapsed=21.1s
++FB        pages= 22 extracted= 22 skipped=  0 0.3s
++Ax        pages=403 extracted=403 skipped=  0 7.1s
++BA_Cx_DA  pages=247 extracted=247 skipped=  0 3.9s
++EA        pages=407 extracted=407 skipped=  0 7.0s
++FA        pages= 58 extracted= 58 skipped=  0 0.9s
++Jx        pages=214 extracted=214 skipped=  0 3.5s
+
+TOTAL {'annotations': 97626, 'colours': 71, 'devref': 15359, 'devtag': 10526, 'lines': 180916, 'net': 3566, 'numeric': 70054, 'placeholders': 402, 'text': 45240, 'xrefs_out': 34890, 'xsections': 92}
+failures=0 elapsed=22.8s
++FB        pages= 22 extracted= 22 skipped=  0 0.2s
++Ax        pages=403 extracted=403 skipped=  0 5.9s
++BA_Cx_DA  pages=247 extracted=247 skipped=  0 3.2s
++EA        pages=407 extracted=407 skipped=  0 5.8s
++FA        pages= 58 extracted= 58 skipped=  0 0.8s
++Jx        pages=214 extracted=214 skipped=  0 3.0s
+
+TOTAL {'annotations': 97626, 'colours': 71, 'devref': 21160, 'devtag': 10493, 'lines': 180916, 'net': 4072, 'numeric': 66833, 'placeholders': 402, 'text': 42187, 'xrefs_out': 34890, 'xsections': 92}
+failures=0 elapsed=18.9s
++FB        pages= 22 extracted= 22 skipped=  0 0.3s
++Ax        pages=403 extracted=403 skipped=  0 6.2s
++BA_Cx_DA  pages=247 extracted=247 skipped=  0 3.3s
++EA        pages=407 extracted=407 skipped=  0 6.1s
++FA        pages= 58 extracted= 58 skipped=  0 0.9s
++Jx        pages=214 extracted=214 skipped=  0 3.1s
+
+TOTAL {'annotations': 97626, 'colours': 71, 'devref': 21160, 'devtag': 10526, 'lines': 180916, 'net': 4039, 'numeric': 66833, 'placeholders': 402, 'text': 42187, 'xrefs_out': 34890, 'xsections': 92}
+failures=0 elapsed=19.9s
++FB        pages= 22 extracted= 22 skipped=  0 0.3s
++Ax        pages=403 extracted=403 skipped=  0 6.1s
++BA_Cx_DA  pages=247 extracted=247 skipped=  0 3.5s
++EA        pages=407 extracted=407 skipped=  0 6.1s
++FA        pages= 58 extracted= 58 skipped=  0 0.8s
++Jx        pages=214 extracted=214 skipped=  0 3.1s
+
+TOTAL {'annotations': 97626, 'colours': 71, 'devref': 20010, 'devtag': 10526, 'lines': 180916, 'net': 4023, 'numeric': 66832, 'placeholders': 402, 'text': 43354, 'xrefs_out': 34890, 'xsections': 92}
+failures=0 elapsed=20.0s
++FB        pages= 22 extracted= 22 skipped=  0 0.3s
++Ax        pages=403 extracted=403 skipped=  0 6.5s
++BA_Cx_DA  pages=247 extracted=247 skipped=  0 3.7s
++EA        pages=407 extracted=407 skipped=  0 6.2s
++FA        pages= 58 extracted= 58 skipped=  0 0.8s
++Jx        pages=214 extracted=214 skipped=  0 3.0s
+
+TOTAL {'annotations': 97626, 'colours': 71, 'devref': 20281, 'devtag': 10526, 'lines': 180916, 'net': 4055, 'numeric': 66832, 'placeholders': 402, 'text': 43051, 'xrefs_out': 34890, 'xsections': 92}
+failures=0 elapsed=20.5s
++FB        pages= 22 extracted= 22 skipped=  0 0.3s
++Ax        pages=403 extracted=403 skipped=  0 6.0s
++BA_Cx_DA  pages=247 extracted=247 skipped=  0 3.4s
++EA        pages=407 extracted=407 skipped=  0 5.9s
++FA        pages= 58 extracted= 58 skipped=  0 0.8s
++Jx        pages=214 extracted=214 skipped=  0 3.2s
+
+TOTAL {'annotations': 97626, 'colours': 71, 'devref': 20281, 'devtag': 10526, 'lines': 180916, 'net': 4055, 'numeric': 66832, 'placeholders': 402, 'text': 43038, 'xrefs_out': 34890, 'xsections': 92}
+failures=0 elapsed=19.6s
++FB        pages= 22 extracted= 22 skipped=  0 0.3s
++Ax        pages=403 extracted=403 skipped=  0 7.5s
++BA_Cx_DA  pages=247 extracted=247 skipped=  0 4.0s
++EA        pages=407 extracted=407 skipped=  0 7.2s
++FA        pages= 58 extracted= 58 skipped=  0 0.9s
++Jx        pages=214 extracted=214 skipped=  0 3.8s
+
+TOTAL {'annotations': 97626, 'colours': 71, 'devref': 20281, 'devtag': 10526, 'lines': 180916, 'net': 4055, 'numeric': 66832, 'placeholders': 402, 'text': 43007, 'xrefs_out': 34890, 'xsections': 92}
+failures=0 elapsed=23.9s
++FB        pages= 22 extracted=  0 skipped= 22 0.0s
++Ax        pages=403 extracted=  0 skipped=403 0.0s
++BA_Cx_DA  pages=247 extracted=  0 skipped=247 0.0s
++EA        pages=407 extracted=  0 skipped=407 0.0s
++FA        pages= 58 extracted=  0 skipped= 58 0.0s
++Jx        pages=214 extracted=  0 skipped=214 0.0s
+
+TOTAL {}
+failures=0 elapsed=0.0s
++FB        pages= 22 extracted=  0 skipped= 22 0.0s
++Ax        pages=403 extracted=  0 skipped=403 0.0s
++BA_Cx_DA  pages=247 extracted=  0 skipped=247 0.0s
++EA        pages=407 extracted=  0 skipped=407 0.0s
++FA        pages= 58 extracted=  0 skipped= 58 0.0s
++Jx        pages=214 extracted=  0 skipped=214 0.0s
+
+TOTAL {}
+failures=0 elapsed=0.0s

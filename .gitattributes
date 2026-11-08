@@ -1,0 +1,19 @@
+# Normalise line endings so the repository is stable across platforms.
+# The pipeline writes LF deliberately (Markdown + JSON), so keep it that way in
+# the repository and let Git convert only on checkout for Windows editors.
+* text=auto eol=lf
+
+# Binary content: never attempt text normalisation or diff.
+*.pdf   binary
+*.png   binary
+*.jpg   binary
+*.jpeg  binary
+*.zip   binary
+
+# Generated artefacts that are large, single-line JSON: mark as data so diffs
+# stay readable and Git does not try to treat them as source.
+*.jsonl linguist-generated=true
+*.json  linguist-language=JSON
+
+# Markdown is the deliverable: render as documentation on GitHub.
+*.md    text eol=lf

@@ -1,0 +1,102 @@
+{
+ "Q1": {
+  "ok": true,
+  "detail": "| `K598` | K | Relais / relay, contactor | 3 | [+FB:5](../02_SHEETS/FB/SHEET_0005.md), [+FB:14](../02_SHEETS/FB/SHEET_0014.md) |"
+ },
+ "Q2": {
+  "ok": true,
+  "detail": "section_de/en + doc code present in front matter and body"
+ },
+ "Q3": {
+  "ok": true,
+  "detail": "master TOC lists +EA with 407 sheets"
+ },
+ "Q4": {
+  "ok": true,
+  "detail": "row yields /14.F with #65 and +A497/1 K598:A2"
+ },
+ "Q5": {
+  "ok": true,
+  "detail": "FB#14 lists /9.F in incoming references"
+ },
+ "Q6": {
+  "ok": true,
+  "detail": "FB#9 pairs /13.G with A244:bn"
+ },
+ "Q7": {
+  "ok": true,
+  "detail": "both sections present (34 out / 34 in)"
+ },
+ "Q8": {
+  "ok": true,
+  "detail": "sheets mentioning /19.x: ['SHEET_0005.md', 'SHEET_0006.md', 'SHEET_0009.md', 'SHEET_0010.md', 'SHEET_0014.md', 'SHEET_0017.md', 'SHEET_0019.md']"
+ },
+ "Q9": {
+  "ok": true,
+  "detail": "table has 4A/4B/4C -> 0.1 -> /328.B"
+ },
+ "Q10": {
+  "ok": true,
+  "detail": "table has 26A/26B/26C -> 21.7 -> /191.G"
+ },
+ "Q11": {
+  "ok": true,
+  "detail": "X020 appears with +A497"
+ },
+ "Q12": {
+  "ok": true,
+  "detail": "M24+ and L24+/4 present with column attribution"
+ },
+ "Q13": {
+  "ok": true,
+  "detail": "19 FA sheets mention PE"
+ },
+ "Q14": {
+  "ok": true,
+  "detail": "rows=24 cols=5"
+ },
+ "Q15": {
+  "ok": true,
+  "detail": "chain FB#9 col C -> /14.F -> FB#14 col F (reciprocal /9.F)"
+ },
+ "Q16": {
+  "ok": true,
+  "detail": "INDEX_NETS has a 24V section with per-document sheet lists"
+ },
+ "Q17": {
+  "ok": true,
+  "detail": "device table carries IEC class letters"
+ },
+ "Q18": {
+  "ok": true,
+  "detail": "section index lists MASCHINENSCHEMA with sheet ranges per document"
+ },
+ "Q19": {
+  "ok": true,
+  "detail": "conductor cross-section and colour present"
+ },
+ "Q20": {
+  "ok": true,
+  "detail": "no part numbers anywhere (K598 has no manufacturer data)"
+ },
+ "Q21": {
+  "ok": true,
+  "detail": "no current rating attached to K160"
+ },
+ "Q22": {
+  "ok": true,
+  "detail": "/999.A does not appear anywhere"
+ },
+ "Q23": {
+  "ok": true,
+  "detail": "K9999 does not appear anywhere"
+ },
+ "Q25": {
+  "ok": true,
+  "detail": "KB states path numbers are on only 7 sheets / 28 of 34,890 xrefs"
+ },
+ "Q26": {
+  "ok": true,
+  "detail": "KB states the series-maximum rule in README and playbook"
+ }
+}

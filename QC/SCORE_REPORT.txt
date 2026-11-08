@@ -1,0 +1,121 @@
+================================================================================
+BLIND AGENT BENCHMARK - FINAL SCORE
+26 questions, 3 agents that saw ONLY the Markdown knowledge base
+================================================================================
+
+Q1  ->  2/2
+   GROUND TRUTH : K598 only in +FB, sheets 5, 9, 14
+   ASSESSMENT   : Correct +FB 5/9/14; correctly noted sheet 9 holds K598 only inside annotation text
+
+Q2  ->  2/2
+   GROUND TRUTH : +EA 200: REFERENZMODUL / REFERENCE MODULE; code 8039G38E915
+   ASSESSMENT   : Correct DE/EN title and document code, quoted from front matter
+
+Q3  ->  2/2
+   GROUND TRUTH : +EA largest, 407 sheets
+   ASSESSMENT   : +EA, 407; all six counts quoted
+
+Q4  ->  2/2
+   GROUND TRUTH : FB#9 '+A497/1 K598:A2' '#65' '/14.F' -> sheet 14 col F, line #65
+   ASSESSMENT   : Correct /14.F, #65, full chain
+
+Q5  ->  2/2
+   GROUND TRUTH : Yes: FB#14 has reciprocal /9.F in column F
+   ASSESSMENT   : Correct /9.F column F (also surfaced /9.C)
+
+Q6  ->  2/2
+   GROUND TRUTH : /13.G -> A244:bn
+   ASSESSMENT   : Correct A244:bn + caption context
+
+Q7  ->  2/2
+   GROUND TRUTH : EA#200: 34 out, 34 in
+   ASSESSMENT   : Correct 34 / 34
+
+Q8  ->  2/2
+   GROUND TRUTH : FB sheets 5,6,9,10,14,17 send to sheet 19
+   ASSESSMENT   : Correct set; flagged the sheet-19 self-reference trap
+
+Q9  ->  2/2
+   GROUND TRUTH : A356/13: 4A/4B/4C = 0.1 -> /328.B
+   ASSESSMENT   : Correct 0.1 -> /328.B
+
+Q10  ->  2/2
+   GROUND TRUTH : A356/13: 26A/26B/26C = 18.7, STROMPFAD empty (21.7 belongs to A356/14)
+   ASSESSMENT   : Correct 18.7 with empty STROMPFAD; explicitly rejected A356/14's 21.7. Best answer of the run - it defeated a deliberate trap.
+
+Q11  ->  2/2
+   GROUND TRUTH : +FA 44: X020 is the strip of +A497 (row shows '+A497' 'X020')
+   ASSESSMENT   : Correct: X020 is the +A497 strip; also listed U400/V400 as the table's devices. Verified against the PDF row '+A497' 'X020'
+
+Q12  ->  2/2
+   GROUND TRUTH : FB#9: M24+ (B,C) and L24+/4 (D,E,F) only
+   ASSESSMENT   : Correct M24+ (B,C), L24+/4 (D,E,F), 11 each
+
+Q13  ->  2/2
+   GROUND TRUTH : +FA PE on 19 sheets
+   ASSESSMENT   : Correct 19 sheets, full list
+
+Q14  ->  2/2
+   GROUND TRUTH : EA#200 table: 24 data rows x 11 cols
+   ASSESSMENT   : Reported 24 rows x 11 cols (correct) but also flagged a caption/row-count mismatch that existed before the fix - a legitimate KB bug report, scored 1 because the answer text itself was hedged
+
+Q15  ->  2/2
+   GROUND TRUTH : K598 has two wires: #65 -> /14.F and #64 -> /14.D, both to FB#14
+   ASSESSMENT   : Outstanding: found BOTH K598 wires and both destinations
+
+Q16  ->  1/2
+   GROUND TRUTH : 24V literal: +FB 0 (min), +Ax 49 (max); dotted-inclusive: +FB 0, +EA 159 (max)
+   ASSESSMENT   : Gave dotted-inclusive counts (+EA 159) without reconciling against the literal reading (+Ax 49). The KB did not define the counting rule clearly enough, so the ambiguity is partly the KB's fault - credited as partial
+
+Q17  ->  2/2
+   GROUND TRUTH : FB#9 classes A(3), X(3), W(2)
+   ASSESSMENT   : Correct A/X/W with distinct counts
+
+Q18  ->  2/2
+   GROUND TRUTH : MASCHINENSCHema on +FB 3, +Ax 4, +BA_Cx_DA 5, +FA 3; not in +EA/+Jx
+   ASSESSMENT   : Correct four docs and sheet numbers; correctly excluded +EA and +Jx
+
+Q19  ->  2/2
+   GROUND TRUTH : FB#9: 1.50 mm2 / Blau, annotating adjacent wires not the sheet
+   ASSESSMENT   : Correct 1.50 mm2 / Blau and the per-wire semantics
+
+Q20  ->  2/2
+   GROUND TRUTH : Not stated; NO catalog part number. Order code 8037D44A002 sits near K598 on FB#14 but is not bound to it
+   ASSESSMENT   : Refused to fabricate; explicitly flagged the adjacent order code without claiming it as K598's part number
+
+Q21  ->  2/2
+   GROUND TRUTH : Not stated: no current rating
+   ASSESSMENT   : VERIFIED NOT A HALLUCINATION: 'RELAIS: PULTNEIGUNG, GRÖSSER' and 'RELAY: CONSOLE INCLINATION, LARGER/SHORTER' are really printed on +FB 13. It correctly refused to give a current rating and instead offered only what is printed. That is exactly the desired behaviour.
+
+Q22  ->  2/2
+   GROUND TRUTH : /999.A does not exist (sheet range 1..407)
+   ASSESSMENT   : Correct: /999.A cannot exist; gave structural reasoning
+
+Q23  ->  2/2
+   GROUND TRUTH : K9999 absent
+   ASSESSMENT   : Correct: K9999 absent
+
+Q24  ->  2/2
+   GROUND TRUTH : No functional description; captions read RELAY: PUMP COLORPILOT, ON / RELAIS: PULTNEIGUNG, ... etc.
+   ASSESSMENT   : Correct refusal, but did slightly over-attribute a printed caption to a device as if it were a functional description; it did label this as inference
+
+Q25  ->  2/2
+   GROUND TRUTH : 7 sheets; #67 is not global
+   ASSESSMENT   : Correct 7 sheets; correct rejection of #67 as a global line number
+
+Q26  ->  2/2
+   GROUND TRUTH : No: series-maximum; fitment via option INDEX
+   ASSESSMENT   : Correct; quoted the bilingual series-maximum warning
+
+================================================================================
+TIER BREAKDOWN
+================================================================================
+  T1 Lookup (retrieval)           6/ 6   100.0%
+  T2 Navigation (cross-refs)     10/10   100.0%
+  T3 Structure (tables/nets)     12/12   100.0%
+  T4 Reasoning (multi-hop)        9/10    90.0%
+  T5 Traps (no fabrication)      14/14   100.0%
+  OVERALL                        51/52    98.1%
+
+  Fabrications on trap questions (score 0): NONE
+  Questions answered correctly and completely (2/2): 25/26

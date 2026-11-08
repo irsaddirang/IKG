@@ -1,0 +1,120 @@
+[2026-11-08 13:25:54] ==============================================================================
+[2026-11-08 13:25:54] render.py start  dpi=300 mode=bilevel threshold=160 jobs=1 force=False
+[2026-11-08 13:25:54]   src     : C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Diagram Manroland
+[2026-11-08 13:25:54]   images  : C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\images
+[2026-11-08 13:25:54]   manifest: C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\data\derived\image_manifest.json
+[2026-11-08 13:25:54] planned: 3 pages across 1 document(s) (+FB=3) in 1 chunk(s)
+[2026-11-08 13:25:55] ERROR manifest rebuild failed: NameError: name 'documents_meta' is not defined
+[2026-11-08 13:25:55] ------------------------------------------------------------------------------
+[2026-11-08 13:25:55] SUMMARY  dpi=300 mode=bilevel threshold=160
+[2026-11-08 13:25:55]   pages done   : 3
+[2026-11-08 13:25:55]   pages skipped: 0
+[2026-11-08 13:25:55]   pages failed : 0
+[2026-11-08 13:25:55]   total bytes  : 165528  (0.2 MB)
+[2026-11-08 13:25:55]   elapsed      : 0.6 s (0.0 min)
+[2026-11-08 13:25:55] render.py end
+[2026-11-08 13:26:03] ==============================================================================
+[2026-11-08 13:26:03] render.py start  dpi=300 mode=bilevel threshold=160 jobs=1 force=False
+[2026-11-08 13:26:03]   src     : C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Diagram Manroland
+[2026-11-08 13:26:03]   images  : C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\images
+[2026-11-08 13:26:03]   manifest: C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\data\derived\image_manifest.json
+[2026-11-08 13:26:03] planned: 3 pages across 1 document(s) (+FB=3) in 1 chunk(s)
+[2026-11-08 13:26:03] ERROR manifest rebuild failed: NameError: name 'documents_meta' is not defined
+[2026-11-08 13:26:03] ------------------------------------------------------------------------------
+[2026-11-08 13:26:03] SUMMARY  dpi=300 mode=bilevel threshold=160
+[2026-11-08 13:26:03]   pages done   : 0
+[2026-11-08 13:26:03]   pages skipped: 3
+[2026-11-08 13:26:03]   pages failed : 0
+[2026-11-08 13:26:03]   total bytes  : 165528  (0.2 MB)
+[2026-11-08 13:26:03]   elapsed      : 0.0 s (0.0 min)
+[2026-11-08 13:26:03] render.py end
+[2026-11-08 13:26:15] ==============================================================================
+[2026-11-08 13:26:15] render.py start  dpi=300 mode=bilevel threshold=160 jobs=1 force=False
+[2026-11-08 13:26:15]   src     : C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Diagram Manroland
+[2026-11-08 13:26:15]   images  : C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\images
+[2026-11-08 13:26:15]   manifest: C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\data\derived\image_manifest.json
+[2026-11-08 13:26:16] planned: 3 pages across 1 document(s) (+FB=3) in 1 chunk(s)
+[2026-11-08 13:26:16] manifest: C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\data\derived\image_manifest.json  (3 pages, 0.2 MB on disk)
+[2026-11-08 13:26:16] ------------------------------------------------------------------------------
+[2026-11-08 13:26:16] SUMMARY  dpi=300 mode=bilevel threshold=160
+[2026-11-08 13:26:16]   pages done   : 0
+[2026-11-08 13:26:16]   pages skipped: 3
+[2026-11-08 13:26:16]   pages failed : 0
+[2026-11-08 13:26:16]   total bytes  : 165528  (0.2 MB)
+[2026-11-08 13:26:16]   elapsed      : 0.0 s (0.0 min)
+[2026-11-08 13:26:16] render.py end
+[2026-11-08 13:26:34] ==============================================================================
+[2026-11-08 13:26:34] render.py start  dpi=300 mode=bilevel threshold=160 jobs=2 force=False
+[2026-11-08 13:26:34]   src     : C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Diagram Manroland
+[2026-11-08 13:26:34]   images  : C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\images
+[2026-11-08 13:26:34]   manifest: C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\data\derived\image_manifest.json
+[2026-11-08 13:26:34] planned: 5 pages across 1 document(s) (+FB=5) in 1 chunk(s)
+[2026-11-08 13:26:34] parallel mode: 1 worker process(es)
+[2026-11-08 13:26:35] manifest: C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\data\derived\image_manifest.json  (8 pages, 0.5 MB on disk)
+[2026-11-08 13:26:35] ------------------------------------------------------------------------------
+[2026-11-08 13:26:35] SUMMARY  dpi=300 mode=bilevel threshold=160
+[2026-11-08 13:26:35]   pages done   : 5
+[2026-11-08 13:26:35]   pages skipped: 0
+[2026-11-08 13:26:35]   pages failed : 0
+[2026-11-08 13:26:35]   total bytes  : 315993  (0.3 MB)
+[2026-11-08 13:26:35]   elapsed      : 1.4 s (0.0 min)
+[2026-11-08 13:26:35] render.py end
+[2026-11-08 13:27:09] ==============================================================================
+[2026-11-08 13:27:09] render.py start  dpi=300 mode=bilevel threshold=160 jobs=6 force=False
+[2026-11-08 13:27:09]   src     : C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Diagram Manroland
+[2026-11-08 13:27:09]   images  : C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\images
+[2026-11-08 13:27:09]   manifest: C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\data\derived\image_manifest.json
+[2026-11-08 13:27:09] planned: 1351 pages across 6 document(s) (+FB=22, +Ax=403, +BA_Cx_DA=247, +EA=407, +FA=58, +Jx=214) in 71 chunk(s)
+[2026-11-08 13:27:09] parallel mode: 6 worker process(es)
+[2026-11-08 13:27:21] progress 162/1351 ( 12.0%) done=154 skipped=8 failed=0 13.5 pg/s eta=1.5 min
+[2026-11-08 13:27:32] progress 405/1351 ( 30.0%) done=397 skipped=8 failed=0 17.7 pg/s eta=0.9 min
+[2026-11-08 13:27:43] progress 652/1351 ( 48.3%) done=644 skipped=8 failed=0 19.1 pg/s eta=0.6 min
+[2026-11-08 13:27:55] progress 892/1351 ( 66.0%) done=884 skipped=8 failed=0 19.5 pg/s eta=0.4 min
+[2026-11-08 13:28:05] progress 1117/1351 ( 82.7%) done=1109 skipped=8 failed=0 19.8 pg/s eta=0.2 min
+[2026-11-08 13:28:16] progress 1351/1351 (100.0%) done=1343 skipped=8 failed=0 20.3 pg/s eta=0.0 min
+[2026-11-08 13:28:16] manifest: C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\data\derived\image_manifest.json  (1351 pages, 93.5 MB on disk)
+[2026-11-08 13:28:16] ------------------------------------------------------------------------------
+[2026-11-08 13:28:16] SUMMARY  dpi=300 mode=bilevel threshold=160
+[2026-11-08 13:28:16]   pages done   : 1343
+[2026-11-08 13:28:16]   pages skipped: 8
+[2026-11-08 13:28:16]   pages failed : 0
+[2026-11-08 13:28:16]   total bytes  : 93548772  (93.5 MB)
+[2026-11-08 13:28:16]   elapsed      : 66.8 s (1.1 min)
+[2026-11-08 13:28:16] render.py end
+[2026-11-08 13:32:57] ==============================================================================
+[2026-11-08 13:32:57] render.py start  dpi=300 mode=bilevel threshold=160 jobs=1 force=False
+[2026-11-08 13:32:57]   src     : C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Diagram Manroland
+[2026-11-08 13:32:57]   images  : C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\images
+[2026-11-08 13:32:57]   manifest: C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\data\derived\image_manifest.json
+[2026-11-08 13:32:58] planned: 1351 pages across 6 document(s) (+FB=22, +Ax=403, +BA_Cx_DA=247, +EA=407, +FA=58, +Jx=214) in 71 chunk(s)
+[2026-11-08 13:32:58] manifest: C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\data\derived\image_manifest.json  (1351 pages, 93.5 MB on disk)
+[2026-11-08 13:32:58] ------------------------------------------------------------------------------
+[2026-11-08 13:32:58] SUMMARY  dpi=300 mode=bilevel threshold=160
+[2026-11-08 13:32:58]   pages done   : 0
+[2026-11-08 13:32:58]   pages skipped: 1351
+[2026-11-08 13:32:58]   pages failed : 0
+[2026-11-08 13:32:58]   total bytes  : 93548772  (93.5 MB)
+[2026-11-08 13:32:58]   elapsed      : 0.8 s (0.0 min)
+[2026-11-08 13:32:58] render.py end
+[2026-11-08 13:33:39] ==============================================================================
+[2026-11-08 13:33:39] render.py start  dpi=300 mode=bilevel threshold=160 jobs=1 force=False
+[2026-11-08 13:33:39]   src     : C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Diagram Manroland
+[2026-11-08 13:33:39]   images  : C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\images
+[2026-11-08 13:33:39]   manifest: C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\data\derived\image_manifest.json
+[2026-11-08 13:33:39] planned: 4 pages across 2 document(s) (+FB=2, +FA=2) in 2 chunk(s)
+[2026-11-08 13:33:39] manifest: C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\data\derived\image_manifest.json  (1351 pages, 93.5 MB on disk)
+[2026-11-08 13:33:39] ------------------------------------------------------------------------------
+[2026-11-08 13:33:39] SUMMARY  dpi=300 mode=bilevel threshold=160
+[2026-11-08 13:33:39]   pages done   : 0
+[2026-11-08 13:33:39]   pages skipped: 4
+[2026-11-08 13:33:39]   pages failed : 0
+[2026-11-08 13:33:39]   total bytes  : 252478  (0.3 MB)
+[2026-11-08 13:33:39]   elapsed      : 0.2 s (0.0 min)
+[2026-11-08 13:33:39] render.py end
+[2026-11-08 13:33:39] ==============================================================================
+[2026-11-08 13:33:39] render.py start  dpi=300 mode=bilevel threshold=160 jobs=1 force=False
+[2026-11-08 13:33:39]   src     : C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Diagram Manroland
+[2026-11-08 13:33:39]   images  : C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\images
+[2026-11-08 13:33:39]   manifest: C:\Users\muham\OneDrive\ドキュメント\Github\IKG\Manroland_KnowledgeBase\data\derived\image_manifest.json
+[2026-11-08 13:33:39] WARNING unknown --only key(s) ignored: ['+ZZ']
+[2026-11-08 13:33:39] ERROR no documents selected

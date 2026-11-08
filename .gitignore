@@ -1,0 +1,47 @@
+# ---------------------------------------------------------------------------
+# IKG knowledge base — .gitignore
+# ---------------------------------------------------------------------------
+# Prinsip: commit SEMUA yang merupakan deliverable atau sumber yang tidak bisa
+# dibuat ulang. Kecualikan artefak antara yang 100% dapat diregenerasi oleh
+# pipeline, supaya riwayat git tidak membengkak permanen.
+#
+# Regenerasi artefak yang dikecualikan:
+#     cd Manroland_KnowledgeBase/pipeline
+#     python build.py            # extract + tables + graph + md + export
+#     python render.py           # 1.351 gambar 300 DPI
+# ---------------------------------------------------------------------------
+
+# --- Artefak antara yang dapat diregenerasi (data/raw: ~110 MB) -------------
+# Satu JSON per sheet; sumbernya PDF di Diagram Manroland/.
+Manroland_KnowledgeBase/data/raw/
+
+# --- Runtime / OS ----------------------------------------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.venv/
+venv/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Editor ----------------------------------------------------------------
+.vscode/
+.idea/
+*.swp
+
+# --- Proyek lain yang kebetulan berada di folder ini -----------------------
+# `build-daily-monitoring/` berisi riset untuk proyek TERPISAH (superapp-dotnet:
+# modul Findings / Logbook / Parts — aplikasi .NET, bukan diagram Manroland).
+# Tidak dimasukkan ke repo IKG agar riwayat repo ini tetap satu topik dan tidak
+# mencampur materi milik proyek lain.
+# Jika memang ingin digabung, hapus baris ini lalu ulangi `git add`.
+build-daily-monitoring/
+
+# --- Environment / secrets -------------------------------------------------
+.env
+.env.*
+*.pem
+*.key
+secrets/

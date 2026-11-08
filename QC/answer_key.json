@@ -1,0 +1,224 @@
+{
+ "Q1": {
+  "+FB": [
+   5,
+   14
+  ]
+ },
+ "Q2": {
+  "section_de": "REFERENZMODUL",
+  "section_en": "REFERENCE MODULE",
+  "document_code": "8039G38E915",
+  "evidence_ok": true
+ },
+ "Q3": {
+  "doc": "+EA",
+  "sheets": 407,
+  "all": {
+   "+FB": 22,
+   "+Ax": 403,
+   "+BA_Cx_DA": 247,
+   "+EA": 407,
+   "+FA": 58,
+   "+Jx": 214
+  }
+ },
+ "Q4": {
+  "annotation_block": "/14.F #65 +A497/1 K598:A2"
+ },
+ "Q4_expected": {
+  "to_sheet": 14,
+  "to_column": "F",
+  "path": 65
+ },
+ "Q5": {
+  "refs_back_to_9_on_sheet_14": [
+   "/9.C",
+   "/9.F"
+  ],
+  "expected_back_ref": "/9.F",
+  "expected_column": "F"
+ },
+ "Q6": {
+  "row": [
+   "X1.A368:1",
+   "#65",
+   "A244:bn",
+   "#67"
+  ],
+  "expected_target": "A244:bn"
+ },
+ "Q7": {
+  "xref_tokens_out": 34
+ },
+ "Q8": {
+  "sheets": [
+   5,
+   6,
+   9,
+   10,
+   14,
+   17,
+   19
+  ]
+ },
+ "Q9": {
+  "row_4C": [
+   "4A",
+   "4B",
+   "4C",
+   "0.1",
+   "/328.B",
+   "4A",
+   "4B",
+   "4C",
+   "19.1",
+   "/366.E"
+  ],
+  "expected_bit": "0.1",
+  "expected_path": "/328.B"
+ },
+ "Q10": {
+  "row_26C": [
+   "26A",
+   "26B",
+   "26C",
+   "18.7",
+   "26A",
+   "26B",
+   "26C",
+   "21.7",
+   "/191.G"
+  ],
+  "expected_bit": "21.7",
+  "expected_path": "/191.G"
+ },
+ "Q11": {
+  "row": [
+   "+A497",
+   "X020"
+  ],
+  "expected": "+A497"
+ },
+ "Q12": {
+  "nets": {
+   "M24+": 11,
+   "L24+/4": 11
+  }
+ },
+ "Q13": {
+  "sheets": [
+   13,
+   14,
+   16,
+   17,
+   19,
+   20,
+   22,
+   31,
+   32,
+   33,
+   34,
+   37,
+   39,
+   41,
+   44,
+   51,
+   52,
+   55
+  ]
+ },
+ "Q14": {
+  "distinct_pin_labels": 72,
+  "sample": [
+   "10A",
+   "10B",
+   "10C",
+   "11A",
+   "11B",
+   "11C"
+  ]
+ },
+ "Q16": {
+  "per_doc": {
+   "+FB": 0,
+   "+Ax": 49,
+   "+BA_Cx_DA": 24,
+   "+EA": 44,
+   "+FA": 1,
+   "+Jx": 22
+  },
+  "min": "+FB",
+  "max": "+Ax"
+ },
+ "Q17": {
+  "frozenset_like": {
+   "A": 11,
+   "X": 4,
+   "W": 4
+  }
+ },
+ "Q18": {
+  "+FB": [
+   1,
+   3
+  ],
+  "+Ax": [
+   1,
+   4
+  ],
+  "+BA_Cx_DA": [
+   1,
+   5
+  ],
+  "+FA": [
+   1,
+   3
+  ]
+ },
+ "Q19": {
+  "xsection_tokens": [
+   "1.50",
+   "1.50",
+   "1.50",
+   "1.50",
+   "1.50",
+   "1.50",
+   "1.50",
+   "1.50"
+  ],
+  "colour_tokens": [
+   "Blau",
+   "Blau",
+   "Blau",
+   "Blau",
+   "Blau",
+   "Blau",
+   "Blau",
+   "Blau"
+  ],
+  "expected": "1.50 mm² and Blau, annotating a specific wire"
+ },
+ "Q20": {
+  "answer": "NOT STATED — no part numbers in these drawings"
+ },
+ "Q21": {
+  "answer": "NOT STATED — no current ratings in these drawings"
+ },
+ "Q22": {
+  "answer": "Does not exist; /999.A is outside the 1..407 sheet range"
+ },
+ "Q23": {
+  "answer": "K9999 does not appear anywhere"
+ },
+ "Q24": {
+  "answer": "NOT STATED — drawings give no functional description"
+ },
+ "Q25": {
+  "sheets_with_path_numbers": 7,
+  "answer": "#67 is not global; on 7 sheets only, 28 of 34,890 xrefs"
+ },
+ "Q26": {
+  "answer": "No. Series-maximum warning is printed on the disposition plans; actual equipment must be taken from the circuit diagram and the INDEX option sheets."
+ }
+}
